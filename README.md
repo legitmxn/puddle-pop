@@ -10,4 +10,4 @@ This is a small local multiplayer prototype: both players share one screen and k
 
 ## Publish
 
-The included GitHub Actions workflow publishes this folder to GitHub Pages when changes are pushed to the default branch. In the repository's **Settings → Pages**, choose **GitHub Actions** as the build source. The published path is `/<repository>/` unless a custom domain is configured.
+The included GitHub Actions workflow publishes this repository to GitHub Pages when changes are pushed to the default branch. The game is published at `https://legitmxn.github.io/puddle-pop/`.
